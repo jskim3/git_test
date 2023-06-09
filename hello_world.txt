@@ -1,0 +1,1 @@
+This is a text file within the git_test repository.
